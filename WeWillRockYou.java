@@ -14,4 +14,12 @@ public class WeWillRockYou {
 		System.out.println(AnotherOneBitesTheDust);
 	}
 
+	private static void queenXD0231ae5b-9e07-4f03-8b4e-4624bde23a33() {
+		System.out.println(BohemianRhapsody);
+	}
+
+	private static void queenXD2cc392ac-9d71-46fa-8a97-dd3f9a5428cc() {
+		System.out.println(UnderPressure);
+	}
+
 }
